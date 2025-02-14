@@ -8,8 +8,3 @@ seaborn
 requests
 beautifulsoup4
 plotly
-tensorflow
-torch
-transformers
-nltk
-spacy
