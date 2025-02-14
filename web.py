@@ -3,6 +3,10 @@ import pickle
 import streamlit as st
 from streamlit_option_menu import option_menu
 
+import os
+os.system("pip install streamlit-option-menu")
+from streamlit_option_menu import option_menu
+
 # Set the page configuration
 st.set_page_config(
     page_title="Prediction of Disease Outbreak",
