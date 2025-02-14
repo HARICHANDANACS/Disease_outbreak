@@ -1,0 +1,15 @@
+streamlit
+streamlit-option-menu
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+requests
+beautifulsoup4
+plotly
+tensorflow
+torch
+transformers
+nltk
+spacy
